@@ -1,35 +1,36 @@
-<!-- BANNER ESTILO HACKER -->
+<!-- MAIN HEADER (Pinterest Image) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jameskaois/jameskaois/main/assets/banner.gif" alt="Hacker Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/7d/11/75/7d117544f7e300f1e4a3ea952d72ca8e.jpg" alt="Header Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Santinonn</h1>
+<h1 align="center">👋 Hi there, I'm Santino Añon</h1>
 
 <p align="center">
-  <b>Estudiante de Ingeniería en Sistemas | Enthusiast en Ciberseguridad & Penetration Testing</b>
+  <b>Systems Engineering Student | Cybersecurity & Penetration Testing Enthusiast</b>
 </p>
 
 ---
 
 ## 🔒 About Me
 
-* 🎓 **Estudiante de Ingeniería en Sistemas** apasionado por la ciberseguridad de forma autodidacta.
-* 🎯 Mi objetivo actual es obtener la certificación **CPTS** (Certified Penetration Testing Specialist) de Hack The Box.
-* 🌐 Enfocado en **Ethical Hacking**, **Seguridad Web** y **Análisis de Vulnerabilidades**.
-* 📝 En este perfil voy a estar compartiendo mi proceso, proyectos y **Writeups** de las máquinas que vaya resolviendo.
+* 🎓 **Systems Engineering Student (UTN)** passionate about self-taught cybersecurity.
+* 🎯 My current goal is to obtain the **CPTS** (Certified Penetration Testing Specialist) certification from Hack The Box.
+* 🌐 Focused on **Ethical Hacking**, **Web Security**, and **Vulnerability Analysis**.
+* 📝 On this profile, I will be sharing my progress, projects, and **Writeups** for the machines I solve.
 
 ---
 
-## 🏗️ Mi Playground & Estadísticas Dinámicas
+## 🏗️ My Playground & Dynamic Stats
 
-<!-- TARJETA DE ESTADÍSTICAS DINÁMICA DE HTB (AUTO-ACTUALIZABLE) PARA SANTINO (ID: 2219769) -->
+<!-- HTB ADVANCED CARD (AUTO-UPDATING) FOR SANTINO (ID: 2219769) -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2219769" target="_blank">
-    <img src="https://htb-badge.vercel.app/api/badges/profile/2219769?theme=dark" alt="Santino Añon - Hack The Box Dynamic Stats" />
+    <!-- This is the advanced card displaying detailed information -->
+    <img src="https://htb-badge.vercel.app/api/badges/profile/2219769?theme=dark" alt="Santino Añon - Hack The Box Advanced Stats" />
   </a>
 </p>
 
-<!-- Tarjeta de TryHackMe (Opcional, pero se ve bien en estos perfiles) -->
+<!-- Placeholder for TryHackMe card (Optional, but looks good) -->
 <!--
 <p align="center">
   <a href="https://tryhackme.com/p/santinoanon" target="_blank">
@@ -40,20 +41,16 @@
 
 ---
 
-## 🛠️ OS & Herramientas (En una sola fila centrada)
+## 🛠️ Tools
 
-<!-- TABLA HTML PARA ALINEAR ÍCONOS HORIZONTALMENTE CENTRADOS -->
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/OS-BlackArch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=red" alt="BlackArch Linux" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/OS-Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=red" alt="Metasploit" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Nmap-00acfe?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /></td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Tools Only (NO OS) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=red" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-00acfe?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+</p>
 
 ---
 
