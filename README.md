@@ -24,8 +24,8 @@
 <!-- Centered auto-updating advanced dynamic card for Santino (ID: 2219769) -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2219769" target="_blank">
-    <!-- Using standard img tag with alt text for maximum reliable loading -->
-    <img src="https://htb-badge.vercel.app/api/badges/profile/2219769?theme=dark" alt="Santino Añon - HTB Advanced Stats Card" />
+    <!-- Using official HTB badge for maximum reliability and scaled up width -->
+    <img src="https://www.hackthebox.com/badge/image/2219769" alt="Santino Añon - HTB Advanced Stats Card" width="550" />
   </a>
 </p>
 
@@ -41,6 +41,8 @@
 ## 🛠️ My Tools
 
 <p align="center">
+  <!-- Inserted Black Arch Linux centered first -->
+  <img src="https://img.shields.io/badge/BlackArch_Linux-000000?style=for-the-badge&logo=blackarch&logoColor=red" alt="BlackArch Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=red" alt="Metasploit" />
@@ -53,3 +55,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/rainbow.gif" width="100%" height="3px">
 </p>
+```http://googleusercontent.com/image_generation_content/439
