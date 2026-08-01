@@ -19,13 +19,13 @@
 
 ---
 
-## 🏗️ My Playground & Stats
+### 🏗️ My Playground & Stats
 
-<!-- Centered auto-updating advanced dynamic card for Santino (ID: 2219769) -->
+<!-- Dynamically generated feed of recently owned machines for Santino (ID: 2219769) -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2219769" target="_blank">
-    <!-- Using official HTB badge for maximum reliability and scaled up width -->
-    <img src="https://www.hackthebox.com/badge/image/2219769" alt="Santino Añon - HTB Advanced Stats Card" width="550" />
+    <!-- Verified, dynamically generated list of recent detailed machine solves -->
+    <img src="https://htb-badge.vercel.app/api/badges/activity/2219769?theme=dark&type=machines" alt="Santino Añon - HTB Machine Solve Activity" />
   </a>
 </p>
 
@@ -51,8 +51,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/rainbow.gif" width="100%" height="3px">
-</p>
-```http://googleusercontent.com/image_generation_content/439
