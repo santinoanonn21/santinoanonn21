@@ -21,19 +21,11 @@
 
 ### 🏗️ My Playground & Stats
 
-<!-- Centered, detailed and reliable official badges for Santino (ID: 2219769) -->
+<!-- DETAILED HACK THE BOX DYNAMIC STATS (VERIFIABLE, HIGH-QUALITY SVG) FOR SANTINOANONN (ID: 2219769) -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2219769" target="_blank">
-    <!-- Rank badge -->
-    <img src="https://img.shields.io/badge/HackTheBox-Rank:-00acfe?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Rank: Pro Hacker" />
-    <!-- Machines Owns Badge -->
-    <img src="https://img.shields.io/badge/HTB-Machines_Solved:-ffd343?style=for-the-badge&logo=server&logoColor=black" alt="Hack The Box Machines Solved: 64" />
-    <!-- Challenges Solved Badge -->
-    <img src="https://img.shields.io/badge/HTB-Challenges:-F700FF?style=for-the-badge&logo=shield&logoColor=white" alt="Hack The Box Challenges Solved: 33" />
-    <!-- Pro Labs Badge -->
-    <img src="https://img.shields.io/badge/HTB-Pro_Labs:-FF6600?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hack The Box Pro Labs Completed: 0" />
-    <!-- Points Badge -->
-    <img src="https://img.shields.io/badge/HTB-Points:-ffd343?style=for-the-badge&logo=pypy&logoColor=black" alt="Hack The Box Points: 789" />
+    <!-- Centered, detailed dynamic SVG card matching your reference, with standard robust rendering -->
+    <img src="https://github-readme-stats-htb.vercel.app/api/htb?username=Santinoanonn&theme=dark" alt="Santinoanonn - Hack The Box Detailed Stats" width="600" />
   </a>
 </p>
 
