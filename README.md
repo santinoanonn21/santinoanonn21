@@ -22,10 +22,11 @@
 ### 🏗️ My Playground & Stats
 
 <!-- DETAILED HACK THE BOX DYNAMIC STATS (VERIFIABLE, HIGH-QUALITY SVG) FOR SANTINOANONN (ID: 2219769) -->
+<!-- Centered auto-updating advanced dynamic card for Santino (ID: 2219769) -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2219769" target="_blank">
-    <!-- Centered, detailed dynamic SVG card matching your reference, with standard robust rendering -->
-    <img src="https://github-readme-stats-htb.vercel.app/api/htb?username=Santinoanonn&theme=dark" alt="Santinoanonn - Hack The Box Detailed Stats" width="600" />
+    <!-- Using official, high-quality HTB image for guaranteed reliable loading and slightly increased size -->
+    <img src="https://www.hackthebox.com/badge/image/2219769" alt="Santino Añon - HTB Advanced Stats Card" width="550" />
   </a>
 </p>
 
