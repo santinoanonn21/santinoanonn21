@@ -21,11 +21,19 @@
 
 ### 🏗️ My Playground & Stats
 
-<!-- Dynamically generated feed of recently owned machines for Santino (ID: 2219769) -->
+<!-- Centered, detailed and reliable official badges for Santino (ID: 2219769) -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2219769" target="_blank">
-    <!-- Verified, dynamically generated list of recent detailed machine solves -->
-    <img src="https://htb-badge.vercel.app/api/badges/activity/2219769?theme=dark&type=machines" alt="Santino Añon - HTB Machine Solve Activity" />
+    <!-- Rank badge -->
+    <img src="https://img.shields.io/badge/HackTheBox-Rank:-00acfe?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Rank: Pro Hacker" />
+    <!-- Machines Owns Badge -->
+    <img src="https://img.shields.io/badge/HTB-Machines_Solved:-ffd343?style=for-the-badge&logo=server&logoColor=black" alt="Hack The Box Machines Solved: 64" />
+    <!-- Challenges Solved Badge -->
+    <img src="https://img.shields.io/badge/HTB-Challenges:-F700FF?style=for-the-badge&logo=shield&logoColor=white" alt="Hack The Box Challenges Solved: 33" />
+    <!-- Pro Labs Badge -->
+    <img src="https://img.shields.io/badge/HTB-Pro_Labs:-FF6600?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hack The Box Pro Labs Completed: 0" />
+    <!-- Points Badge -->
+    <img src="https://img.shields.io/badge/HTB-Points:-ffd343?style=for-the-badge&logo=pypy&logoColor=black" alt="Hack The Box Points: 789" />
   </a>
 </p>
 
